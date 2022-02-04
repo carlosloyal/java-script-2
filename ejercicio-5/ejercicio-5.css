@@ -1,0 +1,16 @@
+body {
+    background-image: radial-gradient(rgba(26, 39, 233, 0.829), rgba(255, 255, 255, 0.774),#e2a636c4);
+       max-width: 100%;
+       width: 100%;
+       box-sizing: border-box;
+       font-family: 'Luxurious Roman', cursive;    
+   }
+ h1:hover {
+        background-color: blueviolet;
+       box-sizing: border-box;
+       align-content: center;
+   }
+   .img image {
+
+    display: block;
+   }
